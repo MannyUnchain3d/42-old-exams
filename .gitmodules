@@ -1,0 +1,3 @@
+[submodule "42-EXAM"]
+	path = 42-EXAM
+	url = https://github.com/JCluzet/42_EXAM.git
